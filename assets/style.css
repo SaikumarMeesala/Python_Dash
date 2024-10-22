@@ -28,21 +28,36 @@ h1 {
 }
  */
  body {
+    background-color: #f0f2f5;
+    font-family: Arial, sans-serif;
+  }
+  
+  #app-title {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
     background-color: maroon;
     color: white;
-}
-
-.dashboard-title {
-    text-align: center;
-    color: white;
-}
-
-.card {
-    background-color: #444;
     padding: 20px;
-    border-radius: 10px;
-}
-
-.dropdown {
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  .dropdown {
     margin: 20px;
-}
+    width: 250px;
+  }
+  
+  select {
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .chart {
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+  }
+  
