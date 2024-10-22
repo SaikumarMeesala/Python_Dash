@@ -17,6 +17,7 @@ df = pd.DataFrame(data)
 
 # Create the Dash app
 app = dash.Dash(__name__)
+server=app.server
 
 # App layout
 app.layout = html.Div([
