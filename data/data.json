@@ -27,7 +27,8 @@
         "Indian": 6000,
         "OtherEthnicity": 2200,
         "Migrated": 26000,
-        "NonMigrated": 380000
+        "NonMigrated": 380000,
+        "Population":625000
     },
     {
         "State": "Alabama",
@@ -86,7 +87,8 @@
         "Indian": 12000,
         "OtherEthnicity": 1500,
         "Migrated": 18000,
-        "NonMigrated": 300000
+        "NonMigrated": 300000,
+        "Population": 360000
     },
     {
         "State": "Alaska",
@@ -100,7 +102,8 @@
         "Indian": 13000,
         "OtherEthnicity": 1600,
         "Migrated": 19000,
-        "NonMigrated": 305000
+        "NonMigrated": 305000,
+        "Population":326000
     },{
         "State": "Alaska",
         "Year": 2022,
@@ -158,7 +161,8 @@
         "Indian": 7000,
         "OtherEthnicity": 3000,
         "Migrated": 40000,
-        "NonMigrated": 700000
+        "NonMigrated": 700000,
+        "Population":625000
     },
     {
         "State": "Arizona",
@@ -172,7 +176,8 @@
         "Indian": 7500,
         "OtherEthnicity": 3200,
         "Migrated": 42000,
-        "NonMigrated": 715000
+        "NonMigrated": 715000,
+        "Population":615000
     },
     {
         "State": "Arizona",
@@ -231,7 +236,8 @@
         "Indian": 4000,
         "OtherEthnicity": 2500,
         "Migrated": 21000,
-        "NonMigrated": 330000
+        "NonMigrated": 330000,
+        "Population": 335000
     },
     {
         "State": "Arkansas",
@@ -245,7 +251,8 @@
         "Indian": 4500,
         "OtherEthnicity": 2700,
         "Migrated": 22000,
-        "NonMigrated": 340000
+        "NonMigrated": 340000,
+        "Population": 345000
     },{
         "State": "Arkansas",
         "Year": 2022,
